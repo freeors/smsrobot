@@ -1,0 +1,622 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: smsrobot-lib\n"
+"Report-Msgid-Bugs-To: http://www.libsdl.cn/\n"
+"POT-Creation-Date: 2017-10-31 17:59+0800\n"
+"PO-Revision-Date: 2017-10-31 18:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese/Simplified <i18n-translation@lists.linux.net.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Bookmarks: -1,-1,-1,3,-1,-1,-1,-1,-1,-1\n"
+"X-Generator: Poedit 2.0.3\n"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/_bonus.cpp:1
+msgid "smsrobot"
+msgstr "机器人信使"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:1
+msgid "Back to start"
+msgstr "回到开始"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:3
+msgid "Click to login"
+msgstr "点击登录"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:5
+msgid "Clone"
+msgstr "克隆"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:7
+msgid "Contacts"
+msgstr "联系人"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:9
+msgid "Edit field"
+msgstr "编辑字段"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:11
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:47
+msgid "Edit group"
+msgstr "编辑群组"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:13
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:43
+msgid "Edit person"
+msgstr "编辑联系人"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:15
+msgid "Edit template"
+msgstr "编辑模板"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:17
+msgid "Erase"
+msgstr "删除"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:19
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:74
+#: apps-src/apps/smsrobot/main.cpp:975
+msgid "Field"
+msgstr "字段"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:21
+#: apps-src/apps/smsrobot/gui/dialogs/login.cpp:87
+msgid "Forget password"
+msgstr "忘记密码"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:23
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:68
+#: apps-src/apps/smsrobot/main.cpp:971
+msgid "Group"
+msgstr "群组"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:25
+msgid "I have read and agreed to Sesame User Agreement"
+msgstr ""
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:27
+msgid ""
+"ID is used to uniquely identify the field, and cannot be modified once "
+"created. Characters can only be alphabet, number and '_', the first must be "
+"alphabet. Up to 32 characters."
+msgstr ""
+"标识用于在各字段间唯一识别该字段，一旦创建后就不能修改。当中字符只能是字母、"
+"数字和“_”，第一个必须是字母。最多32个字符。"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:29
+msgid "Interval"
+msgstr "间隔"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:31
+#: apps-src/apps/smsrobot/main.cpp:577
+msgid "Language"
+msgstr "语言"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:33
+#: apps-src/apps/smsrobot/gui/dialogs/login.cpp:69
+msgid "Login"
+msgstr "登录"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:35
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:1078
+msgid "Logout"
+msgstr "退出登录"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:37
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:77
+#: apps-src/apps/smsrobot/main.cpp:978
+msgid "More"
+msgstr "更多"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:39
+msgid ""
+"Name is the field's display contents, and can be modified in the future. Up "
+"to 32 characters"
+msgstr "名称是该字段显示在界面的内容，创建后可再修改。最多32个字符"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:41
+msgid "Notification"
+msgstr "通知"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:43
+msgid "Recognize template"
+msgstr "识别模板"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:45
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:63
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:71
+msgid "Register"
+msgstr "注册"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:47
+msgid "Require send"
+msgstr "设为发送"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:49
+msgid "SIM's strategy"
+msgstr "SIM卡策略"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:51
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:65
+#: apps-src/apps/smsrobot/main.cpp:969
+msgid "SMS"
+msgstr "短信"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:53
+#: apps-src/apps/smsrobot/gui/dialogs/login.cpp:97
+msgid "Sign up"
+msgstr "快速注册"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:55
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:71
+#: apps-src/apps/smsrobot/main.cpp:973
+msgid "Template"
+msgstr "模板"
+
+#: apps-res/po/app-smsrobot/cfg-cpp/smsrobot-lib/gui.cpp:57
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:1057
+msgid "bbs url"
+msgstr ""
+
+#: apps-src/apps/smsrobot/game_config.cpp:32
+msgid "None"
+msgstr "空"
+
+#: apps-src/apps/smsrobot/game_config.cpp:34
+msgid "SIM1"
+msgstr ""
+
+#: apps-src/apps/smsrobot/game_config.cpp:36
+msgid "SIM2"
+msgstr ""
+
+#: apps-src/apps/smsrobot/game_config.cpp:40
+msgid "Alternate"
+msgstr "交替使用"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_field.cpp:39
+msgid "ID"
+msgstr "标识"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_field.cpp:52
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:58
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:58
+msgid "Name"
+msgstr "名称"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:34
+msgid "Untitled group"
+msgstr "未命名群组"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:49
+msgid "Browse group"
+msgstr "查看群组"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:49
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:45
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:49
+msgid "Read only"
+msgstr "只读"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:52
+msgid "Insert group"
+msgstr "添加群组"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:133
+msgid "No extra field"
+msgstr "没有额外字段"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:160
+msgid "$mobiles mobile number, $money"
+msgstr "$mobiles个号码，$money"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:180
+msgid "Do you want to delete person: $person|?"
+msgstr "确定要删除联系人（$person）吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:182
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:552
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:753
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:904
+msgid "Delete"
+msgstr "删除"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_group.cpp:234
+msgid "Select field"
+msgstr "选择字段"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:45
+msgid "Browse person"
+msgstr "查看联系人"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:48
+msgid "Insert person"
+msgstr "添加联系人"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:57
+#: apps-src/apps/smsrobot/main.cpp:351
+msgid "person^Name"
+msgstr "姓名"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:66
+#: apps-src/apps/smsrobot/main.cpp:353
+msgid "money^Sum"
+msgstr "金额"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:122
+msgid "Erase row"
+msgstr "删除行"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:140
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:260
+msgid "Mobile"
+msgstr "手机"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:157
+#: apps-src/apps/smsrobot/gui/dialogs/edit_person.cpp:267
+#: apps-src/apps/smsrobot/main.cpp:352
+msgid "mobile^Number"
+msgstr "号码"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:34
+msgid "Untitled template"
+msgstr "未命名模板"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:47
+msgid "Edit tempalte"
+msgstr "编辑模板"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:49
+msgid "Browse tempalte"
+msgstr "查看模板"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:52
+msgid "Insert tempalte"
+msgstr "添加模板"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:69
+msgid "Message"
+msgstr "消息"
+
+#: apps-src/apps/smsrobot/gui/dialogs/edit_template.cpp:171
+msgid "Insert field"
+msgstr "插入字段"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:45
+msgid "30 Sec"
+msgstr "30秒"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:46
+msgid "45 Sec"
+msgstr "45秒"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:47
+msgid "60 Sec"
+msgstr "60秒"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:48
+msgid "75 Sec"
+msgstr "75秒"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:49
+msgid "2 Min"
+msgstr "2分钟"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:185
+msgid "SIM1 always"
+msgstr "总是使用SIM1"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:188
+msgid "SIM2 always"
+msgstr "总是使用SIM2"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:195
+msgid "Alternate use SIM1 and SIM2"
+msgstr "交替使用SIM1和SIM2"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:205
+msgid "Select SIM strategy"
+msgstr "选择SIM卡策略"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:235
+msgid "Select send interval"
+msgstr "选择发送间隔"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:274
+msgid "No valid SIM strategy was selected, and cannot generate send queues."
+msgstr "没有选择有效的SIM卡策略，无法生成队列。"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:276
+msgid ""
+"The first group or the first template is not valid, cannot generate send "
+"queues."
+msgstr "第一个群组或第一个模板不是有效的，无法生成队列。"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:460
+msgid "$count contacts"
+msgstr "$count个联系人"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:463
+msgid "$count mobiles"
+msgstr "$count个号码"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:531
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:730
+msgid "file^Clone"
+msgstr "副本"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:550
+msgid "Do you want to delete group: $group|?"
+msgstr "确定要删除群组（$group）吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:751
+msgid "Do you want to delete template: $template|?"
+msgstr "确定要删除模板（$template）吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:902
+msgid "Do you want to delete field: $field|?"
+msgstr "确定要删除字段（$field）吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:1056
+msgid "Current url: "
+msgstr "当前url"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:1057
+msgid "Edit bbs url"
+msgstr "编辑bbs url"
+
+#: apps-src/apps/smsrobot/gui/dialogs/home.cpp:1078
+msgid "Once logout, app will not automatically login next time."
+msgstr "一旦退出，下次运行时不会自动登录。"
+
+#: apps-src/apps/smsrobot/gui/dialogs/login.cpp:102
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:98
+msgid "Username"
+msgstr "用户名"
+
+#: apps-src/apps/smsrobot/gui/dialogs/login.cpp:107
+msgid "Password"
+msgstr "密码"
+
+#: apps-src/apps/smsrobot/gui/dialogs/login.cpp:140
+msgid ""
+"Please visit $bbs_url and retrieve password through Discuz's recommended "
+"method."
+msgstr "请访问$bbs_url，通过Discuz建议的方法找回密码。"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:47
+msgid "contacts.pb on server is newer than local, do you want download?"
+msgstr "服务器上的联系人资料要比本地新，要下载吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:50
+msgid "contacts.pb on local is newer than server, do you want upload?"
+msgstr "本地的联系人资料要比服务器新，要上传吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:60
+msgid "templates.pb on server is newer than local, do you want download?"
+msgstr "服务器上的模板资料要比本地新，要下载吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:63
+msgid "templates.pb on local is newer than server, do you want upload?"
+msgstr "本地的模板资料要比服务器新，要上传吗？"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:75
+msgid ""
+"You are not logged in. Once logged in, can synchronize contacts and template "
+"with server."
+msgstr "您没有登录。一旦登录，就可以用服务器同步联系人、模板资料。"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:119
+msgid "Jump login"
+msgstr "转去登录"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:123
+msgid "Upload"
+msgstr "上传"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:127
+msgid "Download"
+msgstr "下载"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:147
+msgid "You are not logged in"
+msgstr "您没有登录"
+
+#: apps-src/apps/smsrobot/gui/dialogs/notification.cpp:176
+msgid "Current is using send queue, can not download."
+msgstr "当前正在使用发送队列，不能下载。"
+
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:63
+msgid "Bind Sesame Account"
+msgstr ""
+
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:91
+msgid "I have read and agreed to $agreement"
+msgstr ""
+
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:110
+msgid "6-14 chars password"
+msgstr "6-14个字符密码"
+
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:118
+msgid "E-mail"
+msgstr ""
+
+#: apps-src/apps/smsrobot/gui/dialogs/register.cpp:219
+msgid "Get"
+msgstr ""
+
+#: apps-src/apps/smsrobot/network.cpp:54 apps-src/apps/smsrobot/network.cpp:170
+#: apps-src/apps/smsrobot/network.cpp:252
+#: apps-src/apps/smsrobot/network.cpp:353
+#: apps-src/apps/smsrobot/network.cpp:486
+msgid "Can not connect to network. Please check if the Internet is connected."
+msgstr ""
+
+#: apps-src/apps/smsrobot/network.cpp:101
+#: apps-src/apps/smsrobot/network.cpp:215
+#: apps-src/apps/smsrobot/network.cpp:298
+#: apps-src/apps/smsrobot/network.cpp:449
+#: apps-src/apps/smsrobot/network.cpp:559
+msgid "Invalid data."
+msgstr ""
+
+#: apps-src/apps/smsrobot/network.cpp:106
+msgid "Mobile/Email or password error"
+msgstr ""
+
+#: apps-src/apps/smsrobot/network.cpp:111
+#: apps-src/apps/smsrobot/network.cpp:137
+#: apps-src/apps/smsrobot/network.cpp:226
+#: apps-src/apps/smsrobot/network.cpp:308
+#: apps-src/apps/smsrobot/network.cpp:334
+#: apps-src/apps/smsrobot/network.cpp:460
+#: apps-src/apps/smsrobot/network.cpp:543
+#: apps-src/apps/smsrobot/network.cpp:550
+#: apps-src/apps/smsrobot/network.cpp:570
+msgid "Unknown error."
+msgstr ""
+
+#: apps-src/apps/smsrobot/network.cpp:158
+msgid ""
+"Your account is logined at $time in different places. If it is not your "
+"operation, your password has been leaked. Please login $bbs_url as soon as "
+"possible to modify the password."
+msgstr ""
+"你的帐号于$time在异地登录。如果这不是你的操作，你的密码已经泄露。请尽快登录"
+"$bbs_url修改密码。"
+
+#: apps-src/apps/smsrobot/network.cpp:303
+msgid "Mobile already registered."
+msgstr ""
+
+#: apps-src/apps/smsrobot/network.cpp:379
+msgid "Special file is empty, can not upload."
+msgstr ""
+
+#~ msgid "Long press the line in 'Mobile' area can pop-up relative command."
+#~ msgstr "长按“手机”区的行可弹出操作行的命令。"
+
+#~ msgid "Untitled contacts"
+#~ msgstr "未命名联系人"
+
+#~ msgid "ID card"
+#~ msgstr "身份证"
+
+#~ msgid "10 Sec"
+#~ msgstr "10秒"
+
+#~ msgid "10 Min"
+#~ msgstr "10分钟"
+
+#~ msgid "20 Min"
+#~ msgstr "20分钟"
+
+#~ msgid "30 Min"
+#~ msgstr "30分钟"
+
+#~ msgid "1 Hour"
+#~ msgstr "1小时"
+
+#~ msgid "Select group"
+#~ msgstr "选择群组"
+
+#~ msgid "Select interval"
+#~ msgstr "选择间隔"
+
+#~ msgid "Planned task"
+#~ msgstr "计划中的任务"
+
+#~ msgid "Task settings"
+#~ msgstr "任务设置"
+
+#~ msgid "No task"
+#~ msgstr "没有任务"
+
+#~ msgid "$contacts contacts, $mobiles mobiles"
+#~ msgstr "$contacts个联系人，$mobiles个号码"
+
+#~ msgid ""
+#~ "A parameter is in the format of '%' followed by two numbers, for example "
+#~ "'%02'. A template should not exceed 99 parameters."
+#~ msgstr ""
+#~ "用“%”后跟两个数字的格式表示参数，例如“%02”。一条短信不能超过99个参数。"
+
+#~ msgid ""
+#~ "Click 'Sync' to extract parameters from the message to the parameter list "
+#~ "automatically."
+#~ msgstr "单击“同步”，可从内容自动提取参数到参数列表。"
+
+#~ msgid ""
+#~ "If no value is specified for the parameter, the result is direct copy. "
+#~ "You can use this method to handle parameter and content conflicts."
+#~ msgstr ""
+#~ "如果给没参数指定值，那结果是直接复制。可以用这方法处理参数和内容冲突。"
+
+#~ msgid "Record threshold"
+#~ msgstr "最大缓存的短信数"
+
+#~ msgid "Person"
+#~ msgstr "联系人"
+
+#~ msgid "Persons in group"
+#~ msgstr "群组内的联系人"
+
+#~ msgid "$group's common contacts"
+#~ msgstr "$group中的公共联系人"
+
+#~ msgid "Company"
+#~ msgstr "公司"
+
+#~ msgid "Overdue days"
+#~ msgstr "逾期天数"
+
+#~ msgid "sum^Money"
+#~ msgstr "金额"
+
+#~ msgid "Parameter"
+#~ msgstr "参数"
+
+#~ msgid "ID Card"
+#~ msgstr "身份证"
+
+#~ msgid "Set parameter"
+#~ msgstr "设置参数"
+
+#~ msgid "Please input target phone number"
+#~ msgstr "请输入要发送到的手机"
+
+#~ msgid "Please input thie content of the SMS"
+#~ msgstr "请输入要发送的短信内容"
+
+#~ msgid "SMS sent out"
+#~ msgstr "已发送短信"
+
+#~ msgid "SIM#$slot send to $receiver, every $interval S"
+#~ msgstr "每隔$interval秒，用SIM$slot向$receiver发短信"
+
+#~ msgid "Unknown SIM"
+#~ msgstr "未知SIM"
+
+#~ msgid "Target phone number"
+#~ msgstr "手机号"
+
+#~ msgid "Content of the SMS"
+#~ msgstr "短信内容"
+
+#~ msgid "Test"
+#~ msgstr "测试"
+
+#~ msgid "Run"
+#~ msgstr "运行"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "Description"
+#~ msgstr "描述"

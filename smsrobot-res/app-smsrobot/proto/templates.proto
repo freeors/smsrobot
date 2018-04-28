@@ -1,0 +1,20 @@
+// Protocol message for the templates.
+syntax = "proto3";
+
+package pb;
+
+message ttemplate {
+  string name = 1;
+  string message = 2;
+  
+  message param {
+  	int32 index = 1;
+  	string field_id = 2;
+  };
+  repeated param params = 3;
+};
+  
+message ttemplates {
+  repeated ttemplate templates = 1;
+  int64 timestamp = 2;
+};

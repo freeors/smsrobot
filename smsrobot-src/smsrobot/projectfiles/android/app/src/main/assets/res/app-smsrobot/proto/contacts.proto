@@ -1,0 +1,38 @@
+// Protocol message for the contacts.
+syntax = "proto3";
+
+package pb;
+
+message tbh_field {
+  	string id = 1;
+  	string name = 2;
+ };
+  
+message tperson {
+  string name = 1;
+  string money = 3;
+  
+  message mobile {
+  	string number = 1;
+  };
+  repeated mobile mobiles = 10;
+  
+  message bh_field {
+  	string field_id = 1;
+  	string value = 2;
+  };
+  repeated bh_field bh_fields = 11;
+};
+
+message tgroup {
+  string name = 1;
+  repeated tperson persons = 3;
+  
+  repeated string fields = 5;
+};
+  
+message tcontacts {
+  repeated tbh_field bh_fields = 1;
+  repeated tgroup groups = 3;
+  int64 timestamp = 4;
+};
